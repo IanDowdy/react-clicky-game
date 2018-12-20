@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "image": "assets/images/giannis-pic.jpg"
+    },
+    {
+        "id": 2,
+        "image": "assets/images/jokic-pic.jpg"
+    },
+    {
+        "id": 3,
+        "image": "assets/images/doncic-pic.jpg"
+    }
+]
