@@ -1,6 +1,6 @@
 import React from 'react';
-import GameBoard from './components/GameBoard/GameBoard';
+import Game from './components/Game/Game';
 
-const App = () => <GameBoard />;
+const App = () => <Game />;
 
 export default App;

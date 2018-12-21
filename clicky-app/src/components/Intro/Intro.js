@@ -5,7 +5,7 @@ import './Intro.css';
 const Intro = props => (
     <div className="jumboIntro">
         <Jumbotron style={{'backgroundImage': `url('assets/images/nbaLogos.jpg')`}} >
-        MUH NAME IS STEEEVE
+        <h3>{props.message}</h3>
         </Jumbotron>
     </div>
 )
