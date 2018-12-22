@@ -6,7 +6,10 @@ const GamePiece = props => (
         role="img"
         style={{ backgroundImage: `url("${props.image}")`}}
         className="gamePiece"
-    />
+        onClick={() => props.handleClick(props.id, props.message)}
+    >
+    <p>{props.name}</p>
+    </div>
 );
 
 export default GamePiece;

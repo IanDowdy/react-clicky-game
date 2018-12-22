@@ -1,11 +1,11 @@
 .jumboIntro {
-    margin-top: 80px; 
+    margin-top: 80px;
+    height: 14vh; /*Change the jumbo height here*/
+    
 }
 
 .jumbotron {
     box-shadow: 0 2px 5px 0 darkslategray;
     font-family: 'Arial', sans-serif;
-    font-size: 1.3em;
-    font-weight: bold;
-    
 }
+

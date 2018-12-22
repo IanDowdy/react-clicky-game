@@ -4,7 +4,10 @@ import './Intro.css';
 
 const Intro = props => (
     <div className="jumboIntro">
-        <Jumbotron style={{'backgroundImage': `url('assets/images/nbaLogos.jpg')`}} >
+        <Jumbotron style={{background: "url(/assets/images/introBanner.jpg)",
+                            width: "100%",
+                            height: "100%"
+                            }} >
         <h3>{props.message}</h3>
         </Jumbotron>
     </div>

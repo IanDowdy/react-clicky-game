@@ -1,14 +1,79 @@
 [
     {
         "id": 1,
-        "image": "assets/images/giannis-pic1.png"
+        "image": "assets/images/giannis-pic1.png",
+        "name": "Giannis",
+        "message": "Rawr I'm lanky af!",
+        "clicked": false
     },
     {
         "id": 2,
-        "image": "assets/images/jokic-pic.jpg"
+        "image": "assets/images/jokic-pic.jpg",
+        "name": "Nikola",
+        "message": "Sup",
+        "clicked": false
     },
     {
         "id": 3,
-        "image": "assets/images/doncic-pic.jpg"
+        "image": "assets/images/doncic.jpg",
+        "name": "Luka",
+        "message": "Dropping BOMBBSSS",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "assets/images/kemba.jpg",
+        "name": "Kemba",
+        "message": "Clutch, no big deal",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "assets/images/kristaps.jpg",
+        "name": "Kristaps",
+        "message": "Hurt... lol",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "assets/images/montrezl.jpg",
+        "name": "Montrezl",
+        "message": "Sixth man say wuutt",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "assets/images/richardson.jpg",
+        "name": "Josh",
+        "message": "My boi in NBA2k",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "assets/images/theBrow.jpg",
+        "name": "AD",
+        "message": "Dayum",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "assets/images/theGreatOne.jpg",
+        "name": "Timmy",
+        "message": "Freaking miss you man.",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "assets/images/theKohbs.jpg",
+        "name": "Kobe",
+        "message": "I miss you tooooo WWAAAHHHH",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "assets/images/zion.jpg",
+        "name": "Zion",
+        "message": "You freaking have 94 potential rating in 2k and you got worse over my MyLeague season you jerk",
+        "clicked": false
     }
 ]
